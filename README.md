@@ -1,4 +1,4 @@
-# Project Name
+# Project Name Ecommerce Portal
 
 ## Description
 
